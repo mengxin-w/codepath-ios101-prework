@@ -15,9 +15,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+file:///private/var/folders/4z/p4hd_ywd4k7ftsc1js_pf_hc0000gp/T/b4fae89644452bf0c356dad4b8753239/Kapture%202024-01-02%20at%2020.33.21.gif
 
 ## App Brainstorming (Step 4)
 App 1: YouTube
@@ -37,7 +35,7 @@ I would like to add a new feature to the Instagram App. Aside from being a popul
 
 ## Notes
 
-A challenge I encountered while making the app was calling the function that changes the background color when the button is clicked. I was confused on where to add the two lines and mistakenly placed the lines within the changeColor function. But, after testing the app out and realizing that the button did not change the background when it was clicked on, I had realized that my placement was wrong and fixed my mistake.
+A challenge I encountered while making the app was calling the function that changes the background color when the button is clicked. I was confused on where to add the two lines and mistakenly placed the lines within the changeColor function. But, after testing the app out and realizing that the button did not change the background when it was clicked on, I realized that my placement was wrong and fixed my mistake.
 
 ## License
 
