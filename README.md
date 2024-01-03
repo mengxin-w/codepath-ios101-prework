@@ -4,7 +4,7 @@ Submitted by: **Mengxin Wu**
 
 **The Background Color Changing App** is an app that allows users to change the background color of the app by simplying clicking a button. 
 
-Time spent: **5-6** hours spent in total
+Time spent: **6** hours spent in total
 
 ## Required Features
 
