@@ -15,6 +15,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
+Paste gif link into Safari: 
 file:///private/var/folders/4z/p4hd_ywd4k7ftsc1js_pf_hc0000gp/T/b4fae89644452bf0c356dad4b8753239/Kapture%202024-01-02%20at%2020.33.21.gif
 
 ## App Brainstorming (Step 4)
