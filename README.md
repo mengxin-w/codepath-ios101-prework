@@ -21,10 +21,12 @@ The following **required** functionality is completed:
 App 1: YouTube
 - Allows users to make and organize playlists
 - Easy to share videos with others
+  
 App 2: Netflix
 - Has sorted genres of movies and shows
 - Allows users to add movies and shows into their own watch list
 - Has brief descriptions of movies and shows
+  
 App 3: Spotify
 - Allows users to make and organize playlists
 - Allows users to collaborate and make playlists together with other users
