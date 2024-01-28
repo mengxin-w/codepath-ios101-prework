@@ -19,8 +19,8 @@ The following **required** functionality is completed:
 
 ## App Brainstorming (Step 4)
 App 1: YouTube
-→ Allows users to make and organize playlists
-→ Easy to share videos with others
+- Allows users to make and organize playlists
+- Easy to share videos with others
 App 2: Netflix
 → Has sorted genres of movies and shows
 → Allows users to add movies and shows into their own watch list
