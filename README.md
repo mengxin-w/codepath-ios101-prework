@@ -22,13 +22,13 @@ App 1: YouTube
 - Allows users to make and organize playlists
 - Easy to share videos with others
 App 2: Netflix
-→ Has sorted genres of movies and shows
-→ Allows users to add movies and shows into their own watch list
-→ Has brief descriptions of movies and shows
+- Has sorted genres of movies and shows
+- Allows users to add movies and shows into their own watch list
+- Has brief descriptions of movies and shows
 App 3: Spotify
-→ Allows users to make and organize playlists
-→ Allows users to collaborate and make playlists together with other users
-→ Has a sleep timer that automatically stops music from playing depending on set time
+- Allows users to make and organize playlists
+- Allows users to collaborate and make playlists together with other users
+- Has a sleep timer that automatically stops music from playing depending on set time
 
 App Idea:
 I would like to add a new feature to the Instagram App. Aside from being a popular app used to view photos and videos, Instagram is also widely used to text and message friends and family. Although the app already has a option to search for stickers and gifs that can be sent during chats, sometimes the results shown are not what users are looking for or users may already have their own stickers/gifs saved in their phone that they perfer to send. Therefore, I would like to add a feature that allows users to upload their own stickers and gifs from their camera roll. By addiing this feature, it takes out the hassle of users having to constantly scroll through their camera rolls to find the sticker/gifs they want. Instead, they will just have to add it once and be able to easily select and click on the stickers/gifs again when they need them.
